@@ -1,0 +1,25 @@
+# Tests
+## Test 1 - Microcinema loads and hero plays [sanity]
+Viewport: desktop
+Description: Verifies the branded homepage and featured film are visible.
+Steps:
+1. Open the app
+2. Wait for the featured film area to load
+3. Confirm Aaron Bevan Films and a featured title are visible
+Expected: The branded navigation, hero carousel, and Play button are visible.
+## Test 2 - Film detail player opens
+Viewport: desktop
+Description: Verifies the new Shrek film card opens the informative playback screen.
+Steps:
+1. Open the app
+2. Click the Shrek 5 the forgotten things film card
+3. Confirm the player and film synopsis appear
+Expected: A modal opens with video controls, title, tagline, synopsis, and metadata.
+## Test 3 - Mobile carousel navigation works
+Viewport: mobile
+Description: Verifies the responsive hero and arrow controls work on a phone.
+Steps:
+1. Open the app on mobile
+2. Tap the right hero arrow
+3. Confirm a different featured film title appears
+Expected: The hero advances without horizontal page overflow.
