@@ -16,12 +16,3 @@ This checkpoint preserves the verified Netflix-style site and adds **Shrek 5 the
 ## Development
 
 ```bash
-npm install
-npm run dev
-```
-
-Production build:
-
-```bash
-npm run build
-```
