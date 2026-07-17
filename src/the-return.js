@@ -1,5 +1,5 @@
 const returnFilm = {
-  title: 'The Return',
+  title: 'Return of the King',
   tagline: 'The edge was never the throne.',
   description: 'A king leaves the exhausted edge of the map and returns to an abandoned center. Across four acts—exile, ruin, false rule, and restoration—he discovers that expansion becomes disorder when no one returns to inhabit the center.',
   short: 'A symbolic microfilm about leaving the edge of the map and returning to restore the center.',
